@@ -215,3 +215,6 @@ data/processed*
 
 # Python
 __pycache__/
+
+# Virtual environment
+venv/
